@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zoyaliha.github.io/sitemap/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/Lwx/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/lgS/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/eQB/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/mwA/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/Sag/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/wJX/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/hSd/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/lLT/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/NJf/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/OtR/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/BVb/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/YEb/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/fhy/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/qaA/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/OPu/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/NVO/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/yBo/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/Aqi/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/xUt/sitemap_index.zoyaliha
+Sitemap: https://zoyaliha.github.io/SNC/sitemap_index.zoyaliha
